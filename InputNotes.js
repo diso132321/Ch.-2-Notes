@@ -2,8 +2,6 @@
 
 // npm install readline-sync
 
-
-
 const readLine = require('readline-sync');
 
 let answer = readLine.question("What day is it?\nYour answer: ");
