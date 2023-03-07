@@ -9,6 +9,7 @@
 
 let sum = 0;
 for (let i = 0; i <= 100; i++) {
-    if(1 % 2 == 0) {
+    if (1 % 2 == 0) {
         console.log('sum: ${sum}');
     }
+}
